@@ -42,3 +42,13 @@ Allowed EBS types: GP2 and Standard<br>
 ***
 ![alt text](images/4.jpg)
 ***
+
+## Architecture Diagram
+### Level 1
+***
+![alt text](images/EC2-RDS.png)
+***
+### Can use this - Level 2
+***
+![alt text](images/EC2-RDSMod.png)
+***
