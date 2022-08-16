@@ -32,6 +32,16 @@ Region: Use only US East (N Virginia), us-east-1, and us-east-2<br>
 Instance types: t2.micro and t3.micro<br>
 Allowed EBS types: GP2 and Standard<br>
 
+## Architecture Diagram
+### Level 1
+***
+![alt text](images/EC2-RDS.png)
+***
+### Can be Upgraded accordingly - Level 2
+***
+![alt text](images/EC2-RDSMod.png)
+***
+
 #### **Writeup**
 ***
 ![alt text](images/1.jpg)
@@ -43,12 +53,3 @@ Allowed EBS types: GP2 and Standard<br>
 ![alt text](images/4.jpg)
 ***
 
-## Architecture Diagram
-### Level 1
-***
-![alt text](images/EC2-RDS.png)
-***
-### Can use this - Level 2
-***
-![alt text](images/EC2-RDSMod.png)
-***
